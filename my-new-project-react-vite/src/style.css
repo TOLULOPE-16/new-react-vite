@@ -1,0 +1,17 @@
+.nav{
+    background-color: azure;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav li{
+    list-style-type: none;
+    margin: 10px 10px;
+}
+.nav ul{
+    list-style: none;
+    display: flex;
+    text-decoration: none;
+    margin-right: 2rem;
+    
+}
